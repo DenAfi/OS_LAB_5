@@ -1,0 +1,17 @@
+F:\repos\OS_LAB5_1\OS_LAB5_1\bin\Debug\netcoreapp3.1\OS_LAB5_1.exe
+F:\repos\OS_LAB5_1\OS_LAB5_1\bin\Debug\netcoreapp3.1\OS_LAB5_1.deps.json
+F:\repos\OS_LAB5_1\OS_LAB5_1\bin\Debug\netcoreapp3.1\OS_LAB5_1.runtimeconfig.json
+F:\repos\OS_LAB5_1\OS_LAB5_1\bin\Debug\netcoreapp3.1\OS_LAB5_1.runtimeconfig.dev.json
+F:\repos\OS_LAB5_1\OS_LAB5_1\bin\Debug\netcoreapp3.1\OS_LAB5_1.dll
+F:\repos\OS_LAB5_1\OS_LAB5_1\bin\Debug\netcoreapp3.1\OS_LAB5_1.pdb
+F:\repos\OS_LAB5_1\OS_LAB5_1\obj\Debug\netcoreapp3.1\OS_LAB5_1.csproj.AssemblyReference.cache
+F:\repos\OS_LAB5_1\OS_LAB5_1\obj\Debug\netcoreapp3.1\OS_LAB5_1.Form1.resources
+F:\repos\OS_LAB5_1\OS_LAB5_1\obj\Debug\netcoreapp3.1\OS_LAB5_1.Properties.Resources.resources
+F:\repos\OS_LAB5_1\OS_LAB5_1\obj\Debug\netcoreapp3.1\OS_LAB5_1.csproj.GenerateResource.cache
+F:\repos\OS_LAB5_1\OS_LAB5_1\obj\Debug\netcoreapp3.1\OS_LAB5_1.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\OS_LAB5_1\OS_LAB5_1\obj\Debug\netcoreapp3.1\OS_LAB5_1.AssemblyInfoInputs.cache
+F:\repos\OS_LAB5_1\OS_LAB5_1\obj\Debug\netcoreapp3.1\OS_LAB5_1.AssemblyInfo.cs
+F:\repos\OS_LAB5_1\OS_LAB5_1\obj\Debug\netcoreapp3.1\OS_LAB5_1.csproj.CoreCompileInputs.cache
+F:\repos\OS_LAB5_1\OS_LAB5_1\obj\Debug\netcoreapp3.1\OS_LAB5_1.dll
+F:\repos\OS_LAB5_1\OS_LAB5_1\obj\Debug\netcoreapp3.1\OS_LAB5_1.pdb
+F:\repos\OS_LAB5_1\OS_LAB5_1\obj\Debug\netcoreapp3.1\OS_LAB5_1.genruntimeconfig.cache
